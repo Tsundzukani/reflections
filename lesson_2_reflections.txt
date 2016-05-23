@@ -29,3 +29,5 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+the merges are done faster if they are automatic
